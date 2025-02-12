@@ -1,4 +1,3 @@
-# BI-Tableau
 This project contains an interactive Tableau dashboard analyzing Superstore sales performance across different regions.  
 
 ## 📊 Insights:  
