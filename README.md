@@ -9,7 +9,7 @@ This project contains an interactive Tableau dashboard analyzing Superstore sale
 - Data processed using **Excel & Tableau**  
 
 ## 📁 Files:  
-- `SuperstoreDashboard.twb` → Tableau workbook  
+- `SuperstoreDashboard.twbx` → Tableau workbook  
 - `Sample - Superstore.xlsx` → Raw dataset  
 
 ## 🔗 LinkedIn Post  
