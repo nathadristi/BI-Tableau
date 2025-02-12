@@ -1,4 +1,4 @@
-This project contains an interactive Tableau dashboard analyzing Superstore sales performance across different regions.  
+This project contains an interactive Tableau dashboard analyzing Superstore sales and profit performance.  
 
 ## 📊 Insights:  
 - Best Performing Region: **West** 
